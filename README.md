@@ -1,8 +1,8 @@
-# 🏢 Campus Issue Tracker
+#  Campus Issue Tracker
 
 An intelligent, AI-powered platform for students to report and track campus infrastructure issues. This application uses the Google Gemini API to automatically categorize, summarize, and prioritize reported problems, ensuring a smarter and more efficient resolution process. 
 
-## ✨ Key Features
+##  Key Features
 
   * *Secure User Authentication:* A bcryptjs login and registration system for students ensures a secure experience.
   * *Intuitive Issue Submission:* Students can easily report new issues using a clean, simple form with fields for titles, descriptions, and categories.
@@ -11,7 +11,7 @@ An intelligent, AI-powered platform for students to report and track campus infr
 
 -----
 
-## 🧠 AI-Powered by Google Gemini
+##  AI-Powered by Google Gemini
 
 The core of this application's intelligence comes from the Google Gemini API, which enhances the issue management process.
 
@@ -21,7 +21,7 @@ The core of this application's intelligence comes from the Google Gemini API, wh
 
 -----
 
-## 💻 Tech Stack
+##  Tech Stack
 
 | Category | Technology |
 | :--- | :--- |
@@ -33,7 +33,7 @@ The core of this application's intelligence comes from the Google Gemini API, wh
 
 -----
 
-## 🚀 Getting Started
+##  Getting Started
 
 Follow these steps to get your local development environment up and running.
 
@@ -94,7 +94,7 @@ Follow these steps to get your local development environment up and running.
 
 -----
 
-## 📋 API Endpoints
+##  API Endpoints
 
 The backend provides the following RESTful API endpoints:
 
