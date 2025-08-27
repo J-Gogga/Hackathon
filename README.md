@@ -48,7 +48,7 @@ Follow these steps to get your local development environment up and running.
 1.  *Clone the repository:*
 
     ```bash
-    git clone https://github.com/J-Gogga/Hackathon.git
+    git clone <repository-url>
     cd Hackathon
     ```
 
